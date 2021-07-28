@@ -1,2 +1,2 @@
 # java-masterclass
-Repositório dos códigos feitos durante o meu curso Java Masterclass publicado na Udemy
+Repositório dos códigos feitos para o meu curso Java Masterclass publicado na Udemy
